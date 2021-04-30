@@ -21,7 +21,7 @@ After knowing that and installing the project as well as the libraries, you wann
 
 ## Functions
 
-> Slide:
+> Slide
 * Keep your index up for a little bit and you should be able to slide through the video while moving your hand from side to side. 
 
 > Swipe
