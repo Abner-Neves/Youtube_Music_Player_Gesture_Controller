@@ -19,7 +19,7 @@ if lmList[tipIds[0]][1] > lmList[tipIds[0]-1][1]:
 
 After knowing that and installing the project as well as the libraries, you wanna execute the ‘GestureController.py’ file. After that you’ll se a window called "GestureCapture" with your camera open, now you can open up Youtube music and start playing a song. There are a few gestures you can try.
 
-## Functions:
+## Functions
 
 > Slide:
 * Keep your index up for a little bit and you should be able to slide through the video while moving your hand from side to side. 
@@ -33,6 +33,19 @@ After knowing that and installing the project as well as the libraries, you wann
 > Pause/Continue
 * For this one, just keep all your fingers up for a second.
 
-## References:
+## References
 This project is based on a few existing projects. The ‘handTrackingModule.py’ was created following [this tutorial](https://youtu.be/NZde8Xt78Iw), I also used part of the code from [this video](https://youtu.be/p5Z_GGRCI5s), and for the volume control I used part of the code from [this other video](https://youtu.be/9iEPzbG-xLE). They’re all from the same channel, so if you’re interested in learning about OpenCV or AI you should definitely [check them out](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/).
 By the way, the inspiration for this project came from [this](https://youtu.be/-_9WFzgI7ak?t=117).
+
+## Documentation
+
+Here are some documentation links:
+
+* [MediaPipe Hands]( https://google.github.io/mediapipe/solutions/hands)
+
+* [OpenCV]( https://docs.opencv.org/master/)
+
+* [Pycaw]( https://github.com/AndreMiras/pycaw) (For the audio control)
+
+* [Pyautogui]( https://pyautogui.readthedocs.io/en/latest/mouse.html) (For the mouse and keyboard control) 
+
