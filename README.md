@@ -17,7 +17,7 @@ if lmList[tipIds[0]][1] > lmList[tipIds[0]-1][1]:
 
 * You should click on the video tab before trying any gesture.
 
-After knowing that and installing the project as well as the libraries, you wanna execute the ‘GestureController.py’ file. After that you’ll se a window called "GestureCapture" with your camera open, now you can open up Youtube music and start playing a song. There are a few gestures you can try.
+After knowing that and installing the project as well as the libraries, you wanna execute the ‘GestureController.py’ file. You’ll see a window called "GestureCapture" with your camera capture, now you can open up Youtube music and start playing a song. There are a few gestures you can try.
 
 ## Functions
 
