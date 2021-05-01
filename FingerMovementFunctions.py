@@ -49,7 +49,7 @@ class FingerMovements:
 
         # If you move it to the right
         elif (currentPosition - previousPostion) < -90:
-            # It double clicks it so it goes to the previous song
+            # It taps the key twice so it goes to the previous song
             pyautogui.press('k')
             pyautogui.press('k')
             print("going back")

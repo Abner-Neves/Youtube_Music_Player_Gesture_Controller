@@ -35,7 +35,7 @@ class handDetector():
                 cx, cy = int(lm.x * w), int(lm.y * h)
                 lmList.append([id, cx, cy])
                 if draw:
-                    # It just changes the colour of the finger points
+                    # It just changes the colour of the hand connections
                     cv2.circle(img, (cx, cy), 4, (220, 155, 0), cv2.FILLED)
 
         return lmList
